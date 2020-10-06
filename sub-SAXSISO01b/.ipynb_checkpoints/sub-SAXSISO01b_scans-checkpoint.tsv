@@ -1,0 +1,16 @@
+filename	acq_time	operator	randstr	MotionExclusion	MeanFD	RepeatSubjectExclusion	OtherExclusion	OtherExclusionReason
+anat/sub-SAXSISO01b_T2w.nii.gz	2018-10-17T19:49:50	saxe	bb36cbd9	False		False	False	
+anat/sub-SAXSISO01b_T1w.nii.gz	2018-10-17T19:56:43	saxe	163a0b9d	False		False	False	
+fmap/sub-SAXSISO01b_run-001_magnitude1.nii.gz	2018-10-17T19:58:47	saxe	e6f764c0	False		False	False	
+fmap/sub-SAXSISO01b_run-001_magnitude2.nii.gz	2018-10-17T19:58:47	saxe	e6f764c0	False		False	False	
+fmap/sub-SAXSISO01b_run-001_phasediff.nii.gz	2018-10-17T19:58:48	saxe	668600a8	False		False	False	
+func/sub-SAXSISO01b_task-CIC_run-001_bold.nii.gz	2018-10-17T20:02:27	saxe	c35fca73	False		False	False	
+func/sub-SAXSISO01b_task-CIC_run-002_bold.nii.gz	2018-10-17T20:08:33	saxe	e8ec75b2	False	0.16428465062164382	False	False	
+func/sub-SAXSISO01b_task-CIC_run-003_bold.nii.gz	2018-10-17T20:14:31	saxe	87c7bb05	True	0.3166194396712329	False	False	
+func/sub-SAXSISO01b_task-CIC_run-004_bold.nii.gz	2018-10-17T20:20:07	saxe	8d9098f6	True	0.3268891593369863	False	False	
+func/sub-SAXSISO01b_task-CIC_run-005_bold.nii.gz	2018-10-17T20:26:13	saxe	cd59ab83	False	0.16162830004794523	False	False	
+func/sub-SAXSISO01b_task-CIC_run-006_bold.nii.gz	2018-10-17T20:31:51	saxe	c197986c	False	0.29563831841095894	False	False	
+fmap/sub-SAXSISO01b_run-002_magnitude1.nii.gz	2018-10-17T20:39:52	saxe	1444ecfe	False		False	False	
+fmap/sub-SAXSISO01b_run-002_magnitude2.nii.gz	2018-10-17T20:39:52	saxe	1444ecfe	False		False	False	
+fmap/sub-SAXSISO01b_run-002_phasediff.nii.gz	2018-10-17T20:39:53	saxe	0e2fbf8b	False		False	False	
+func/sub-SAXSISO01b_task-midloc_run-001_bold.nii.gz	2018-10-17T20:41:13	saxe	34b78dfb	False	0.10471126762823531	False	False	

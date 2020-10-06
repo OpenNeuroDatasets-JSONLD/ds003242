@@ -1,0 +1,12 @@
+filename	acq_time	operator	randstr	MotionExclusion	MeanFD
+anat/sub-SAXSISO32f_T2w.nii.gz	2000-01-01T00:00:00	saxe	880daae9	False	n/a
+anat/sub-SAXSISO32f_T1w.nii.gz	2000-01-01T00:00:01	saxe	0fc5c53c	False	n/a
+fmap/sub-SAXSISO32f_run-001_magnitude1.nii.gz	2000-01-01T00:00:02	saxe	04e441cf	False	n/a
+fmap/sub-SAXSISO32f_run-001_magnitude2.nii.gz	2000-01-01T00:00:03	saxe	04e441cf	False	n/a
+fmap/sub-SAXSISO32f_run-001_phasediff.nii.gz	2000-01-01T00:00:04	saxe	ee8eea65	False	n/a
+func/sub-SAXSISO32f_task-CIC_run-001_bold.nii.gz	2000-01-01T00:00:05	saxe	45dd505f	False	0.1508637586917808
+func/sub-SAXSISO32f_task-CIC_run-002_bold.nii.gz	2000-01-01T00:00:06	saxe	c11a7b5c	False	0.12293984722054795
+func/sub-SAXSISO32f_task-CIC_run-003_bold.nii.gz	2000-01-01T00:00:07	saxe	d873cb7a	False	0.13170566436301367
+func/sub-SAXSISO32f_task-CIC_run-004_bold.nii.gz	2000-01-01T00:00:08	saxe	0041e5df	False	0.2040042728219177
+func/sub-SAXSISO32f_task-CIC_run-005_bold.nii.gz	2000-01-01T00:00:09	saxe	60c4aa2a	False	0.1569444635986301
+func/sub-SAXSISO32f_task-CIC_run-006_bold.nii.gz	2000-01-01T00:00:10	saxe	9741f024	False	0.12607161217671234
